@@ -46,6 +46,13 @@ Welcome to the SystemC Basics repository! This repository contains 30 distinct e
 - `29_CustomChannel.cpp`: Creating custom interfaces and channels.
 - `30_PortArrays.cpp`: Arrays of ports for scalable design.
 
+### G. Advanced Architecture (`G_Architecture/`)
+- `31_DirectMappedCache.cpp`: Basic direct-mapped cache memory modeling.
+- `32_SetAssociativeCache.cpp`: 2-Way Set Associative Cache with LRU replacement.
+- `33_BasicPipeline.cpp`: 3-stage Instruction Pipeline simulating Fetch, Decode, Execute.
+- `34_BusArbiter.cpp`: Round-Robin Bus Arbiter managing multiple requests.
+- `35_TLM_Introduction.cpp`: Conceptual introduction to Transaction Level Modeling (TLM).
+
 ## Compilation
 
 You can compile any of these files individually using `g++`. For example, to compile `01_HalfAdder.cpp`:
