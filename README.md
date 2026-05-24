@@ -52,6 +52,7 @@ Welcome to the SystemC Basics repository! This repository contains 30 distinct e
 - `33_BasicPipeline.cpp`: 3-stage Instruction Pipeline simulating Fetch, Decode, Execute.
 - `34_BusArbiter.cpp`: Round-Robin Bus Arbiter managing multiple requests.
 - `35_TLM_Introduction.cpp`: Conceptual introduction to Transaction Level Modeling (TLM).
+- `36_UART_Transmitter.cpp`: UART transmitter modeling serial communication protocols.
 
 ## Compilation
 
