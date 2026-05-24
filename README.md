@@ -54,6 +54,7 @@ Welcome to the SystemC Basics repository! This repository contains 30 distinct e
 - `35_TLM_Introduction.cpp`: Conceptual introduction to Transaction Level Modeling (TLM).
 - `36_UART_Transmitter.cpp`: UART transmitter modeling serial communication protocols.
 - `37_DMA_Controller.cpp`: DMA Controller simulator demonstrating direct memory access.
+- `38_Interrupt_Controller.cpp`: Programmable Interrupt Controller handling prioritized hardware interrupts.
 
 ## Compilation
 
